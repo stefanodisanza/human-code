@@ -1,0 +1,32 @@
+Cerco LAMPADA DA TAVOLO
+
+SE è dispoonibile la consegna PRIME E SE prezzo < budget
+
+		aggiungo al carrello
+		procedo al checkout
+		inserisco indirizzo e metodo di pagamento
+		imposto la confezione regalo e scrivo un biglietto di auguri
+		procedo all'acquisto
+
+ALTRIMENTI
+	cerco PENNA STILOGRAFICA
+	
+	SE è dispoonibile la consegna PRIME E SE prezzo < budget
+
+		aggiungo al carrello
+		procedo al checkout
+		inserisco indirizzo e metodo di pagamento
+
+	ALTRIMENTI
+
+		FINCHè il carrello rimane vuoto
+			
+			Cerco LIBRO
+
+				SE è dispoonibile la consegna PRIME E SE prezzo < budget
+					aggiungo a carrello
+
+					aggiungo al carrello
+					procedo al checkout
+					inserisco indirizzo e metodo di pagamento
+					imposto la confezione regalo e scrivo un biglietto di auguri
